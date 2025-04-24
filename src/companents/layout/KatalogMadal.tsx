@@ -35,7 +35,7 @@ function Katalogkatkatalog({
         <div className="flex items-center gap-3 border border-blue-600 rounded-xl px-4 py-3 w-fit mb-6">
           <ShoppingBag className="w-6 h-6 text-blue-800" />
           <h1 className="text-blue-800 text-2xl font-bold">
-            MAFID<span className="text-yellow-400">_shop</span>
+          <span className="text-yellow-400">_shop</span>
           </h1>
         </div>
 
